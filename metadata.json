@@ -4,5 +4,6 @@
     "project_description": "add an app to analyse new blockchain information",
     "creation_time": "2024-08-29 07:06:22.712910",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vibrant, futuristic landscape with a dramatic color scheme of predominantly deep pinks, purples, and black, creating a surreal, otherworldly style. The celestial scene includes a large glowing planet and smaller moons, with illuminated landscapes enhanced by reflective surfaces."
 }
